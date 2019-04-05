@@ -1,4 +1,4 @@
-package com.jsoft;
+package com.jsoft.demo;
 
 import org.junit.runner.RunWith;
 import org.junit.runners.Suite;

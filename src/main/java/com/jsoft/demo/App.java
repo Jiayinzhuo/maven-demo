@@ -1,4 +1,4 @@
-package com.jsoft;
+package com.jsoft.demo;
 
 public class App {
 	public String demo() {

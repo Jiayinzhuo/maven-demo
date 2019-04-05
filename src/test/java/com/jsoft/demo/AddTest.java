@@ -1,4 +1,4 @@
-package com.jsoft;
+package com.jsoft.demo;
 
 import static org.junit.Assert.assertEquals;
 
